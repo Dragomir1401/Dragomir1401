@@ -1,6 +1,5 @@
-Hi 👋, I'm Alexandru Kullman
+Hi 👋, I'm Dragomir Andrei
 👨‍💻Computer Science Student
-🌱 I’m currently learning Web Development
 
 📫 How to reach me dragomirandrei150@gmail.com
 
